@@ -1,0 +1,26 @@
+{
+    " name " : " start-fe " ,
+    " 버전 " : " 1.0.0 " ,
+    " description " : " " ,
+    " main " : " index.js " ,
+    " 종속성 " : {},
+    " devDependencies " : {
+      " eslint " : " ^ 6.8.0 " ,
+      " eslint-config-airbnb-base " : " ^ 14.1.0 " ,
+      " eslint-config-prettier " : " ^ 6.11.0 " ,
+      " eslint-plugin-import " : " ^ 2.20.1 "
+    },
+    " 스크립트 " : {
+      " test " : " echo \" 오류 : 지정된 테스트가 없습니다 \ " && exit 1 "
+    },
+    " 저장소 " : {
+      " type " : " git " ,
+      " url " : " git + https : //github.com/asdf130700/start-fe.git "
+    },
+    " 저자 " : " " ,
+    " 라이센스 " : " ISC " ,
+    " 버그 " : {
+      " url " : " https://github.com/asdf130700/start-fe/issues "
+    },
+    " 홈페이지 " : " https://github.com/asdf130700/start-fe#readme "
+  }
